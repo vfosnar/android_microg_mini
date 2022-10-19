@@ -3,7 +3,4 @@ PRODUCT_PACKAGES += \
 	GsfProxy \
 	FakeStore \
 	IchnaeaNlpBackend \
-	NominatimGeocoderBackend \
-	FDroid \
-	FDroidPrivilegedExtension \
-	additional_repos.xml
+	NominatimGeocoderBackend
